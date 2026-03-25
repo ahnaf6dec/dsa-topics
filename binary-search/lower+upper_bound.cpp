@@ -104,11 +104,9 @@ int countFrequency(const vector<int>& ar, int target) {
   return ub - lb;
 }
 
-/*
-===========================================================
-MAIN (Examples + Understanding)
-===========================================================
-*/
+
+
+
 int main() {
   cin.tie(0)->sync_with_stdio(0);
 
